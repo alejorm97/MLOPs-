@@ -1,4 +1,4 @@
-artifact_path: /Users/mdurango/Downloads/proyectos/MLOps_UdM/03-Orchestration/Prefect-pipelines/mlruns/1/models/m-0c8d0a6af4074a91a31371cf6f4b2b6a/artifacts
+artifact_path: file:///C:/Users/USUARIO/MLOps/03-Orchestration/Prefect-pipelines/mlruns/1/models/m-7c6877a9d1ef4697b61e66a69af04000/artifacts
 flavors:
   python_function:
     data: model.ubj
@@ -6,7 +6,7 @@ flavors:
       conda: conda.yaml
       virtualenv: python_env.yaml
     loader_module: mlflow.xgboost
-    python_version: 3.11.14
+    python_version: 3.11.16
   xgboost:
     code: null
     data: model.ubj
@@ -14,9 +14,9 @@ flavors:
     model_format: ubj
     xgb_version: 3.2.0
 mlflow_version: 3.16.0
-model_id: m-0c8d0a6af4074a91a31371cf6f4b2b6a
-model_size_bytes: 135371
-model_uuid: m-0c8d0a6af4074a91a31371cf6f4b2b6a
+model_id: m-7c6877a9d1ef4697b61e66a69af04000
+model_size_bytes: 124832
+model_uuid: m-7c6877a9d1ef4697b61e66a69af04000
 prompts: null
-run_id: 1b35d8cab03a4412a2a54ca18b5ef4a8
-utc_time_created: '2026-09-17 00:32:09.039412'
+run_id: fa90b7ac2a9b40bdaf4842ab01581a08
+utc_time_created: '2026-09-29 02:19:39.232843'

@@ -1,4 +1,4 @@
-artifact_path: /Users/mdurango/Downloads/proyectos/MLOps_UdM/03-Orchestration/Prefect-pipelines/mlruns/1/models/m-41908bf91e3c45a68dd950f912287012/artifacts
+artifact_path: file:///C:/Users/USUARIO/MLOps/03-Orchestration/Prefect-pipelines/mlruns/1/models/m-026fc52bbb134fb3b1c68ec74d2f842a/artifacts
 flavors:
   sklearn:
     code: null
@@ -7,9 +7,9 @@ flavors:
     sklearn_version: 1.6.1
     skops_trusted_types: null
 mlflow_version: 3.16.0
-model_id: m-41908bf91e3c45a68dd950f912287012
-model_size_bytes: 3673726
-model_uuid: m-41908bf91e3c45a68dd950f912287012
+model_id: m-026fc52bbb134fb3b1c68ec74d2f842a
+model_size_bytes: 2785871
+model_uuid: m-026fc52bbb134fb3b1c68ec74d2f842a
 prompts: null
-run_id: 1b35d8cab03a4412a2a54ca18b5ef4a8
-utc_time_created: '2026-09-17 00:32:04.604457'
+run_id: fa90b7ac2a9b40bdaf4842ab01581a08
+utc_time_created: '2026-09-29 02:18:59.505219'

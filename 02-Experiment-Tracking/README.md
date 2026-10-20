@@ -80,11 +80,11 @@ Primero levanta el MLflow Tracking Server (en otra terminal, desde la raíz del
 módulo):
 
 ```bash
-mlflow server \
-  --host 127.0.0.1 \
-  --port 5000 \
-  --backend-store-uri sqlite:///mlflow.db \
-  --default-artifact-root ./mlruns \
+mlflow server `
+  --host 127.0.0.1 `
+  --port 5000 `
+  --backend-store-uri sqlite:///mlflow.db `
+  --default-artifact-root ./mlruns `
   --allowed-hosts "localhost,127.0.0.1,127.0.0.1:5000"
 ```
 
